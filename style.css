@@ -1,4 +1,4 @@
-   	    .leaflet-attribution-flag {display: none !important;}
+	    .leaflet-attribution-flag {display: none !important;}
 	  
 		.legend {
 			color: #555;
@@ -126,3 +126,4 @@ body {
     z-index: 100; /* Уровень перекрытия — поверх большинства других элементов (как у шапки) */
     position: relative; /* Тип позиционирования блока: относительное */
 }
+
